@@ -78,7 +78,7 @@ In the above example third parameter compName default value is Gcube.Let's check
  
 **7.Function Scope**<br/>
 **i. Member Functions**<br/>
-      Member functions are functions which are defined inside a class or an object.
+      Member functions are functions which are defined inside a class or an object.<br/>
 **ii.Local/Nested Functions**<br/>
 
       fun funAvrg(a:Int,b:Int):Double{
