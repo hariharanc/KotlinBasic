@@ -87,8 +87,8 @@ In the above example third parameter compName default value is Gcube.Let's check
 
         return average(10)
     }
-   <br/>Function inside another function allows in kotling it provide code readability and encapsulation.   
-     
+   <br/>Function inside another function allows in kotling it provide code readability and encapsulation.<br/>
+   Finally download the sample code and see the syntax its may helpfuls you to understand more about function. 
     
   
 
