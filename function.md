@@ -72,6 +72,25 @@ In the above example third parameter compName default value is Gcube.Let's check
     function.funVarArg(10,10,"ffgf",b=10)--> **it's produce compile time exception**<br/>
      A function may have only one vararg parameter.<br/>
      In Kotlin, a vararg parameter of type T is internally represented as an array of type T (Array<T>) inside the function body<br/>
+	
+ **6.Function Null Check**<br/>
+ fun functionWithNullCheck(a: Int, b: Int): Int? = null ;<br/>
+ 
+**7.Function Scope**<br/>
+**i. Member Functions**<br/>
+      Member functions are functions which are defined inside a class or an object.
+**ii.Local/Nested Functions**<br/>
+
+      fun funAvrg(a:Int,b:Int):Double{
+
+        fun  average(c:Int)=((a+b+c)/2).toDouble()
+
+        return average(10)
+    }
+   <br/>Function inside another function allows in kotling it provide code readability and encapsulation.   
+     
     
+  
+
   
   
