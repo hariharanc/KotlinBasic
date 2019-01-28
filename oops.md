@@ -84,10 +84,10 @@ class Student(firstName: String, lastName: String,schoolName: String="GHSS") {
 }
 ```
 One thing to note here is that every secondary constructor must call the primary constructor, either directly or indirectly via another secondary constructor<br/> 
-**The secondary constructor calls the primary constructor using this keyword**
-**Getter && Setter**
-If you use **val** in constructor then there was no setter properties only getter properites
-If you use **var** in constructor then you could use both setter && getter properties in accessing from object.
+**The secondary constructor calls the primary constructor using this keyword**<br/>
+**Getter && Setter**<br/>
+If you use **val** in constructor then there was no setter properties only getter properites<br/>
+If you use **var** in constructor then you could use both setter && getter properties in accessing from object.<br/>
 
 ```
 class Student (var firstName: String, var lastName: String,val schoolName: String="GHSS")
