@@ -7,5 +7,7 @@ This project helps the beginners to understand the kotlin  basics fundamental...
 **3.Oops**<br/>
 [**i.Classes,Properties,Constructors &Getter && Setter**](https://github.com/hariharanc/KotlinBasic/blob/master/oops.md)<br/>
 [**ii.Inheritance**](https://github.com/hariharanc/KotlinBasic/blob/master/inheritance.md)<br/>
+[**ii1.Abstract classes&Interfaces**](https://github.com/hariharanc/KotlinBasic/blob/master/abstractvsinterface_class.md)<br/>
+
 
 
