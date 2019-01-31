@@ -1,5 +1,5 @@
 **Inheritance**<br/>
-Inherits the features of another class is called the Child class or Derived class or Sub class, and the class whose features are inherited is called the Parent class or Base class or Super class.<br/>
+Inheritance is the features of another class is called the Child class or Derived class or Sub class, and the class whose features are inherited is called the Parent class or Base class or Super class.<br/>
 All the classes in Kotlin have a common base class called **Any**<br/>
 
 ````
