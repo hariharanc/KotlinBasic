@@ -12,7 +12,7 @@ This project helps the beginners to understand the kotlin  basics fundamental...
 )<br/>
 [**v.Data Class && Sealed Class**](https://github.com/hariharanc/KotlinBasic/blob/master/data_sealed_class.md)<br/>
 [**vi.Object vs Companion Object**](https://github.com/hariharanc/KotlinBasic/blob/master/objectvscompanion_object.md)<br/>
-4.Lambdas & Higher Order Functions Kotlin(https://github.com/hariharanc/KotlinBasic/blob/master/Kotlin_lambdas.md)<br/>
+[4.Lambdas & Higher Order Functions Kotlin](https://github.com/hariharanc/KotlinBasic/blob/master/Kotlin_lambdas.md)<br/>
 
 
 
