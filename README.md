@@ -10,6 +10,7 @@ This project helps the beginners to understand the kotlin  basics fundamental...
 [**iii.Abstract classes&Interfaces**](https://github.com/hariharanc/KotlinBasic/blob/master/abstractvsinterface_class.md)<br/>
 [**iv.Visibility Modifiers**](https://github.com/hariharanc/KotlinBasic/blob/master/visibilityModifier.md
 )<br/>
+[**v.Data Class && Sealed Class**](https://github.com/hariharanc/KotlinBasic/blob/master/data_sealed_class.md)<br/>
 
 
 
