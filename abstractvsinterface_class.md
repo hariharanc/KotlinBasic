@@ -38,6 +38,7 @@ Keyword `interface` is used to define interfaces in Kotlin.<br/>
 
 ````
 interface MyInterface {
+   var num: Int =10//not allowed//its shows compile time exception
     var test: String   // abstract property
     fun foo()          // abstract method
     fun hello() = "Hello there" // method with default implementation
